@@ -26,7 +26,6 @@ class Body extends React.Component{
     render(){
         return(
             <>
-            this is the firstComponent
             <input onChange={this.myfunction}/>
             <select onChange={this.myCity}>
                 <option value="">---select---</option>
